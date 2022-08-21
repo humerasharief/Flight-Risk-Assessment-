@@ -1,0 +1,456 @@
+,Category,ProbableCause
+0,pilot_issue,The pilot's failure maintain directional control airplane landing.
+1,pilot_issue,The pilot's loss directional control landing.
+2,flight_issue,The National Transportation Safety Board determines probable cause contact towing vessel Old Glory barge Cole Peter P. Cobb Memorial Bridge protective fendering inadequate navigational assessment identify risk strong cross- currents area bridge transit.
+3,pilot_issue,The pilot's failure maintain clearance taxiway sign landing.
+4,pilot_issue,The pilot’s failure maintain altitude short final due encounter draft flight instructor's delayed remedial action.
+5,pilot_issue,"The pilot's misjudgment airplane’s speed altitude landing approach, failure attain proper touchdown point landing, resulted runway overrun. Contributing accident access limited set flight controls, obstructed vision due seating position, pilot’s decision return relatively constrained runway following perceived anomaly airplane’s flaps."
+6,pilot_issue,"The pilot’s failure maintain directional control landing roll, resulted ground-loop."
+7,pilot_issue,"The pilot's improper pitch attitude landing flare, resulted hard landing. Contributing accident flight instructors delayed remedial action."
+8,pilot_issue,"The pilot's decision attempt takeoff middle runway shifting wind conditions, resulted aborted takeoff runway excursion."
+9,pilot_issue,"The pilot’s loss visual reference agricultural low-level flight, resulting collision power lines."
+10,pilot_issue,The pilot's failure maintain airplane control water takeoff encounter wake boat.
+11,pilot_issue,"The pilot's inadequate flare, resulting hard landing."
+12,pilot_issue,The pilot's failure stow speed brake prior attempting takeoff.
+13,pilot_issue,The pilot maintain control airplane landing.
+14,pilot_issue,"The pilot's failure maintain directional control landing, resulted runway excursion impact vegetation."
+15,pilot_issue,"The pilot's failure maintain directional control takeoff, resulted runway excursion subsequent impact obstacle terrain."
+16,pilot_issue,"The pilot’s failure maintain proper descent rate balloon’s approach high-wind landing, resulted hard landing serious passenger injury."
+17,pilot_issue,"The pilot's inability maintain altitude due loss thermal lift, resulted off-airport landing."
+18,pilot_issue,"The pilot’s failure maintain airplane control maneuvering land resulted aerodynamic stall low altitude, pilot unable recover from."
+19,pilot_issue,"The pilot's decision continue unstable approach resulted inadequate flare, bounced landing collision trees following delayed go around."
+20,pilot_issue,None determined.
+21,pilot_issue,"The pilot's selection unsuitable terrain landing, resulted loss control landing nose over."
+22,pilot_issue,The pilot's decision takeoff towards known obstacles resulted impact power line.
+23,pilot_issue,"The pilot's failure monitor aircraft control, resulted loss control passenger inadvertently moved control stick, pilot passenger's decision unbuckle restraints inflight."
+24,pilot_issue,"The pilot's failure maintain directional control takeoff crosswind conditions, resulted ground loop."
+25,pilot_issue,"The pilot’s inability regain airplane control pilot-induced spin conducted flight test, resulted collision terrain."
+26,pilot_issue,"The pilot's improper recovery bounced landing failure maintain directional control, resulted runway excursion collision trees."
+27,pilot_issue,"The pilot's premature application brakes landing, resulted nose-over event."
+28,flight_issue,"A partial loss engine power due formation carburetor ice ground, resulted reduced climb capability impact trees initial climb."
+29,pilot_issue,The student pilot's inadequate decision make premature turn onto taxiway resulted collision taxiway sign.
+30,pilot_issue,The student pilot misjudged landing flare resulted loss control hard bounced landing.
+31,pilot_issue,"The flight instructor maintain proper approach path landing flare landing tailwind, resulted hard landing damaged landing gear. During subsequent landing damaged landing gear, flight instructor lost directional control resulted runway excursion collision objects."
+32,pilot_issue,"The pilot's failure maintain clearance trees go-around, resulted impact terrain."
+33,pilot_issue,"The passenger's inadvertent application rear brakes landing, resulted nose-over."
+34,pilot_issue,The pilot's failure attain/maintain directional control landing resulted ground-loop collision terrain.
+35,pilot_issue,The flight instructor's failure maintain helicopter control resulted hard landing preforming practice autorotation.
+36,pilot_issue,"The flight instructor’s inadequate remedial action following student pilot’s loss directional control landing, resulted runway excursion subsequent nose over."
+37,pilot_issue,"The pilot’s failure maintain control airplane simulated power landing, flight instructor's delayed remedial action, resulted loss control airplane’s left wing striking ground."
+38,pilot_issue,Foreign object damage sustained main rotor blades due aerial tree trimming.
+39,pilot_issue,"The pilot’s improper decision place passenger baggage rear baggage compartment, resulted aft center gravity, increase directional instability, affected pilot’s ability maintain directional control, resulting ground loop landing roll."
+40,pilot_issue,"The pilot's failure maintain directional control landing gusting wind conditions, resulted impact large hole nose-over."
+41,pilot_issue,"The pilot's failure maintain directional control takeoff crosswind conditions, resulted runway excursion collision trees."
+42,pilot_issue,"The pilot’s distraction failure maintain adequate airspeed low altitude maneuver, resulted loss aircraft control collision terrain."
+43,pilot_issue,"The pilot's excessive speed landing wet grass runway, resulted runway excursion impact fence."
+44,pilot_issue,The pilot’s inability arrest descent rate balloon encountered unforecasted high ground wind resulted hard landing.
+45,pilot_issue,"The balloon pilot’s inability maintain proper descent rate balloon’s approach landing un-forecasted weather, resulted hard landing."
+46,pilot_issue,"The balloon pilot’s inability maintain altitude un-forecasted weather, resulted hard landing."
+47,pilot_issue,The pilot’s improper recovery bounced landing.
+48,environment_issue,The National Transportation Safety Board determines probable cause breakaway containership CMA CGM Bianca Napoleon Avenue Container Terminal wharf ensuing equipment damage sudden onset unforecasted severe winds likely originating outflow thunderstorm-generated downburst.
+49,pilot_issue,"The pilot's failure maintain directional control takeoff tailwind, resulted subsequent collapse right main landing gear."
+50,pilot_issue,The pilot's misjudgment landing flare resulted bounced landing.
+51,pilot_issue,"The pilot remove rudder gust lock preflight inspection, resulted forced landing collision tree."
+52,pilot_issue,"The unstabilized landing approach gusty wind conditions resulted hard, bounced landing."
+53,pilot_issue,"The pilot's failure maintain directional control takeoff, resulted runway excursion impact vegetation."
+54,pilot_issue,"The pilot's failure attain proper landing approach speed touchdown point, resulted runway overrun."
+55,pilot_issue,"The pilot's overapplication brakes landing gusting tailwind conditions, resulted nose-over."
+56,pilot_issue,"The pilot’s failure retract landing gear water landing, resulted nose over. Contributing accident pilot’s failure properly use prelanding checklist."
+57,pilot_issue,A loss engine power due water contamination fuel system. Contributing accident pilot’s inadequate preflight sump fuel tanks prior flight.
+58,pilot_issue,The pilot’s failure maintain main rotor clearance ground obstacle landing.
+59,pilot_issue,The pilot’s failure maintain clearance guy-wires low-altitude agricultural operations.
+60,pilot_issue,The pilot's failure maintain clearance attempting fly power lines aerial application pass.
+61,pilot_issue,"The pilot's failure ensure engine oil cap installed takeoff, resulted oil obscuring pilot’s view windshield necessitated forced landing unsuitable terrain. Contributing accident pilot’s complacency self-induced pressure complete flight."
+62,pilot_issue,"The pilot's improper decision depart off-airport surface standing water, resulted loss control impact terrain."
+63,pilot_issue,The pilot’s failure maintain control airplane attempted engine start.
+64,pilot_issue,"The pilot's exceedance airplane's critical angle attack attempting avoid deer landing, resulting aerodynamic stall."
+65,pilot_issue,The pilot's inadequate preflight performance planning decision utilize available runway high density altitude operations led inflight loss control subsequent collision terrain.
+66,flight_issue,"The failure right main landing gear extend prior landing, could duplicated postaccident tests."
+67,pilot_issue,"The pilot's failure maintain control airplane low-level pass, resulting airplane exceeding critical angle attack caused aerodynamic stall subsequent impact terrain. Contributing accident pilot's distraction low-level pass."
+68,pilot_issue,The pilot's failure maintain adequate clearance known obstacle landing hover.
+69,pilot_issue,"The pilot's failure adequately monitor fuel quantity flight, resulted fuel exhaustion total loss engine power."
+70,pilot_issue,"The pilot's improper pitch attitude soft-field landing roll, resulted tail striking runway."
+71,pilot_issue,The pilot maintain control airplane landing subsequent go around.
+72,pilot_issue,The pilot's loss directional control landing tailwheel airplane slight left quartering tailwind. Contributing accident flight instructor's delayed remedial action.
+73,pilot_issue,The pilot’s application left brake landing resulting runway excursion.
+74,pilot_issue,The pilot's failure attain/maintain directional control landing resulted ground loop impact terrain.
+75,pilot_issue,The pilot maintain clearance wires aerial application flight.
+76,pilot_issue,"The pilot's application brakes taxi, resulted nose over."
+77,pilot_issue,The pilot’s inadequate compensation wind gust landing.
+78,pilot_issue,A hard landing subsequent loss control.
+79,flight_issue,The loss engine power due fuel starvation
+80,pilot_issue,"The pilot's improper landing flare, resulted bounced landing subsequent main landing gear collapse."
+81,pilot_issue,An inadequate flare resulted bounced landing pilot's failure maintain directional control.
+82,pilot_issue,"The pilot's failure maintain directional control forced landing quartering tailwind, following partial loss engine power due carburetor icing."
+83,pilot_issue,The pilots maintain directional control airplane landing.
+84,pilot_issue,The pilot's failure maintain airplane control landing resulting nose over.
+85,pilot_issue,"The pilot's failure see avoid boat's mast, resulted main rotor blade strike. Contributing accident pilot's inadequate preflight planning boat's mast measured."
+86,pilot_issue,"The pilot's failure retract amphibious airplane’s landing gear prior water landing, resulted nose over."
+87,pilot_issue,The pilot's failure maintain directional control landing resulting ground loop.
+88,pilot_issue,The pilot's failure maintain directional landing wet grass runway.
+89,pilot_issue,A loss directional control takeoff undetermined reasons.
+90,environment_issue,Excessive wear left brake liners reduced brake effectiveness resulting runway excursion.
+91,pilot_issue,"The flight instructor student pilot properly transfer airplane control ground rollout, resulted airplane exiting runway impacting ditch."
+92,pilot_issue,"The pilot's failure attain proper approach speed, resulted overrun wet grass runway."
+93,pilot_issue,"The pilot's failure maintain proper approach speed descent path runway, resulted excessive speed touchdown insufficient runway remaining safely bring airplane stop end runway. Contributing accident airplane's diminished braking due dew-covered grass runway condition."
+94,pilot_issue,"The pilot's loss control landing, resulted ground loop left main landing gear collapse."
+95,pilot_issue,"The pilot's failure maintain airplane control landing gusting wind conditions, flight instructor's delayed remedial action, resulted left wing striking runway."
+96,pilot_issue,"The pilot's failure maintain directional control crosswind landing, resulted nose over."
+97,pilot_issue,"The mechanic’s incorrect rigging aileron control cables, resulted reversal aileron control inputs applied pilot takeoff. Also causal mechanic’s inadequate post-maintenance inspection pilot's inadequate preflight inspection takeoff check, failed detect misrigging."
+98,pilot_issue,The student pilot's failure maintain airplane control airplane drifted runway centerline subsequently collided taxiway sign go-around.
+99,pilot_issue,The pilot's inability arrest descent rate maintain altitude encountering downdraft maneuvering low altitude near mountainous terrain resulted hard landing.
+100,environment_issue,"The encounter downdrafts attempted takeoff, resulted decreased airplane's climb performance subsequent impact terrain."
+101,pilot_issue,"The pilot's decision land excessive approach airspeed, resulted airplane landing long, application additional braking action stop subsequent nose over."
+102,pilot_issue,"The student pilot's improper landing flare improper recovery bounced landing, resulted hard landing."
+103,pilot_issue,"The pilot's failure maintain airplane control takeoff high density altitude conditions, resulted collision terrain. Contributing accident pilot's failure accomplish performance calculations atmospheric conditions."
+104,pilot_issue,The flight instructor’s failure maintain control airplane following unannounced transfer flight control takeoff.
+105,pilot_issue,The pilot’s inadequate inflight planning resulted loss engine power due fuel exhaustion.
+106,pilot_issue,"The pilot's failure maintain directional control soft field takeoff dirt airstrip, resulted impact vehicle."
+107,pilot_issue,The PA-32 pilot's failure see avoid airplane.
+108,pilot_issue,The crew leader's decision throw chainsaw bar moving arc main rotor blade.
+109,pilot_issue,The pilot’s failure maintain directional control landing resulting runway excursion subsequent ground loop. Contributing outcome flight instructor’s inadequate remedial actions.
+110,environment_issue,encounter convective turbulence.
+111,pilot_issue,"The student pilot's improper landing flare, resulted hard landing nosegear nosegear collapse."
+112,pilot_issue,"The solo student pilot's improper landing flare, resulted bounced landing subsequent nose over."
+113,pilot_issue,The pilot's failure maintain airplane control go-around resulted airplane exceeding critical angle attack aerodynamically stalling resulted collision ground.
+114,pilot_issue,"The pilot's delayed decision abort takeoff roll, resulted runway overrun airplane nose over."
+115,pilot_issue,"The pilot's distraction takeoff, resulted collision terrain."
+116,pilot_issue,"The pilot's failure maintain directional control airplane landing gusting wind conditions, resulted runway excursion collision fence."
+117,pilot_issue,The commercial pilot's exceedance airplane's critical angle attack subsequent loss lateral bank control soft field takeoff.
+118,pilot_issue,"The left seated flight instructor’s improper manipulation landing gear position selection lever position still landing roll, ultimately resulted landing gear collapse subsequent landing."
+119,pilot_issue,"The pilot's failure maintain proper glide path, resulted landing short runway, airplane’s landing gear contacting runway lip, substantial damage airplane’s right wing."
+120,pilot_issue,"The student pilot's failure improper landing flare, resulted hard landing."
+121,pilot_issue,"The pilot's inability maintain climb attempted takeoff high density altitude conditions, resulted forced landing road subsequent landing gear collapse."
+122,flight_issue,"The National Transportation Safety Board determines probable cause contact Atlantic Huron west center pier Soo Locks following manufacturer’s requirement use thread-locking fluid installation feedback ring locking pin set screw vessel’s controllable pitch propeller system, led failure controllable pitch propeller’s oil distribution box."
+123,pilot_issue,The pilot's failure initiate climb timely manner resulted contact wires.
+124,pilot_issue,The pilot's failure maintain directional control landing.
+125,pilot_issue,"The pilot's decision land unimproved airstrip limited go-around capabilities, improper landing flare aborted landing, subsequent failure attain sufficient altitude clear vegetation attempted go-around."
+126,pilot_issue,"The pilot's improper landing flare, resulted bounced, hard landing subsequent runway overrun."
+127,flight_issue,The loss engine power due stuck intake valve.
+128,pilot_issue,"The loss directional control landing due fracture steering horn bolts, rendered nosewheel steering ineffective resulted airplane towed left turn limits undetermined time accident."
+129,pilot_issue,"The flight instructor's delayed remedial action simulated engine failure takeoff, resulted loss directional control."
+130,pilot_issue,"The pilot's loss control airplane water landing striking boat wake, resulted substantial damage fuselage."
+131,pilot_issue,"The pilot's failure maintain airplane control landing crosswind excessive braking action, resulted airplane nosing over."
+132,pilot_issue,"The student pilot’s failure ensure sufficient fuel onboard, resulted total loss engine power due fuel exhaustion, resulted impact terrain."
+133,pilot_issue,"The pilot's distraction taxiing, resulted taxiway excursion."
+134,pilot_issue,The pilot's improper decision depart unsuitable off-airport surface resulted departure area excursion impact trees.
+135,pilot_issue,"The student pilot's improper landing flare failure recover ensuing bounced landing, resulted runway excursion."
+136,pilot_issue,The pilot's decision land shortened field incorrect brake application. Contributing flight instructor's lack oversight.
+137,pilot_issue,The pilot's failure maintain directional control takeoff resulted collision runway marker.
+138,pilot_issue,"The pilot’s improper landing flare, resulted hard, bounced landing, substantial damage airplane’s fuselage."
+139,pilot_issue,"The pilot’s loss directional control landing gusting crosswind conditions, resulted runway excursion collision ditch."
+140,pilot_issue,"The pilot's loss airplane control approach, resulted aerodynamic stall impact vegetation terrain."
+141,pilot_issue,"The pilot's failure maintain directional control landing rollout, resulted ground loop."
+142,flight_issue,The reported malfunction aileron flight control system takeoff reasons could determined.
+143,pilot_issue,"The pilot's failure ensure amphibious airplane’s wheels retracted attempting water landing, resulting nose touch down. Contributing accident lack checklist available pilot."
+144,pilot_issue,"The pilot's failure properly configure airplane takeoff, resulted exceedance airplane's critical angle attack, aerodynamic stall, subsequent impact terrain."
+145,pilot_issue,"The pilot's failure maintain directional control airplane aborted landing, resulted ground loop, runway excursion, subsequent nose over."
+146,pilot_issue,The pilot's failure perform go around following bounced landing resulted aerodynamic stall.
+147,pilot_issue,"The pilot's hard landing airplane's nosewheel, jammed steering, resulted runway excursion impact runway lights."
+148,pilot_issue,The pilot's failure maintain directional control landing roll. The pilot fatigued likely contributed failure maintain directional control landing roll.
+149,pilot_issue,The pilot's failure maintain clearance fence post initial climb.
+150,pilot_issue,"The pilot's improper approach airspeed landing flare, resulted bounced landing, subsequent nose over."
+151,pilot_issue,The uncertificated pilot's failure attain/maintain proper angle-of-attack initial climb resulted aerodynamic stall subsequent impact terrain.
+152,pilot_issue,"The student pilot's improper landing flare, failure recover ensuing bounced landing, resulted subsequent nose landing gear collapse."
+153,pilot_issue,"The pilot’s failure maintain adequate airspeed final approach turbulent conditions, resulted aerodynamic stall subsequent hard landing."
+154,pilot_issue,"The pilot's failure maintain directional control takeoff, resulted runway excursion, contact airport perimeter fence, subsequent nose over."
+155,pilot_issue,The pilot’s failure maintain directional control landing roll crosswind conditions.
+156,pilot_issue,"The pilot's inadequate assessment landing area, resulted airplane's encounter tall weeds landing subsequent nose-over."
+157,pilot_issue,"The pilot's inadequate preflight inflight fuel planning, resulted fuel exhaustion."
+158,pilot_issue,"The probable cause collapse container stacks onboard barge Ho’Omaka Hou company’s absence initial barge load plan inadequate procedures monitoring stack weights, led undetected reverse stratification container stacks subjected stacks’ securing arrangements increased forces transit sea."
+159,pilot_issue,The pilot's failure maintain adequate clearance fence hovering.
+160,flight_issue,The loss engine power reasons could determined based available information.
+161,pilot_issue,"The pilot’s failure maintain directional control landing, resulted airplane exiting runway striking ditch."
+162,pilot_issue,"The student pilot's decision continue visual flight instrument meteorological conditions, resulted collision trees mountainous terrain."
+163,pilot_issue,The pilot's improper decision conduct off-field precautionary landing.
+164,pilot_issue,"The student pilot's improper landing flare improper recovery bounced landing gusty wind conditions, resulted hard landing."
+165,pilot_issue,"The pilot's improper approach, resulted long landing runway overrun."
+166,pilot_issue,The pilot's failure maintain airplane control landing gusting wind conditions.
+167,pilot_issue,"The pilot's improper landing flare resulted hard, bounced landing, subsequent runway excursion. Contributing accident airplane’s aft center gravity time accident."
+168,pilot_issue,"The pilot's inadequate planning, failure secure airplane prior hand-starting engine."
+169,environment_issue,"The National Transportation Safety Board determines probable cause flooding sinking fishing vessel Rebecca Mary undetected flooding lazarette, likely non-watertight raised hatch."
+170,pilot_issue,The pilot's failure extend airplane’s retractable landing gear landing.
+171,pilot_issue,"The pilot's failure maintain adequate clearance rice vegetation, resulted helicopter's impact terrain."
+172,pilot_issue,"The pilot’s improper landing flare, resulted hard, bounced landing nose landing gear collapse gusty landing."
+173,pilot_issue,"The pilot's inadequate preflight inspection powered parachute, resulted takeoff twisted riser lines impaired aircraft control."
+174,pilot_issue,"The pilot’s failure maintain directional control landing crosswind, resulted runway excursion nose landing gear collapse."
+175,pilot_issue,"The pilot's failure maintain clearance fence post final approach resulted damage left main landing gear, subsequent collapse landing."
+176,pilot_issue,"The pilot's failure maintain control airplane landing approach, resulted airplane exceeding critical angle attack, aerodynamic stall, hard landing, landing gear collapse."
+177,pilot_issue,"The pilot's failure maintain airspeed landing quartering tailwind, resulted loss control hard landing."
+178,pilot_issue,"The pilot's failure remove seat belt used flight control lock aft cockpit control stick takeoff, resulted loss control takeoff collision terrain."
+179,pilot_issue,"A loss directional control takeoff, resulted runway excursion collision trees."
+180,pilot_issue,"The pilot's improper flare, resulted hard, bounced landing."
+181,pilot_issue,"The student pilot's improper landing flare, resulted hard, bounced landing."
+182,pilot_issue,"The pilot's failure maintain clearance power lines maneuvering aerial application flight, resulted wire strike."
+183,pilot_issue,"The pilot's failure maintain proper airspeed low altitude aerial application maneuver exceedance airplane’s critical angle attack, resulted aerodymanic stall low altiutde recover."
+184,flight_issue,"The mechanic’s failure clean oil suction screen recent maintenance, resulted oil starvation subsequent total loss engine power."
+185,pilot_issue,"The flight instructor's delayed remedial action, resulted hard landing loss directional control landing crosswind."
+186,pilot_issue,"The pilot's failure maintain directional control landing, resulted runway excursion collision fence.The pilot's inadequate flare resulted bounced landing, failure maintain directional control resulted runway excursion collision fence."
+187,pilot_issue,The pilot’s decision attempt takeoff tailwind high density altitude conditions.
+188,pilot_issue,"The pilot's improper approach descent rate, resulted hard landing."
+189,pilot_issue,The pilot's failure maintain proper glide path final approach resulted collision airport equipment short runway.
+190,pilot_issue,A loss directional control result fractured landing gear attach bracket.
+191,pilot_issue,The pilot's failure maintain directional control landing.
+192,pilot_issue,"Maintenance personnel’s improper installation improperly sized clamp fuel supply line, allowed air enter supply line, subsequent loss engine power, forced landing."
+193,pilot_issue,"The pilot's failure maintain control airplane crosswind landing, resulted hard landing runway excursion."
+194,pilot_issue,The pilot's failure maintain directional control landing subsequent go-around gusting crosswind conditions.
+195,pilot_issue,The pilot's failure maintain adequate clearance parked airplane taxiing. Contributing accident parked airplane's position double-yellow taxiway edge lines taxiway object-free movement area.
+196,pilot_issue,"The pilot's incorrect flight control input landing flare, resulted impact ground."
+197,pilot_issue,"The pilot’s improper decision load airplane beyond allowable gross weight limits, resulted impact tree collision terrain."
+198,pilot_issue,A loss engine power undetermined reasons.
+199,pilot_issue,"The pilot's failure maintain control airplane landing roll, resulted landing gear collapse."
+200,pilot_issue,The pilot’s failure maintain control float-equipped airplane float became caught trailer used takeoff.
+201,pilot_issue,The pilot's decision divert private airport subsequent failure maintain directional control landing turf runway contained tall grass.
+202,pilot_issue,The pilot's failure maintain directional control landing.
+203,flight_issue,"The National Transportation Safety Board determines probable cause fire aboard vehicle carrier Höegh Xiamen Grimaldi’s SSA Atlantic’s ineffective oversight longshoremen, identify Grimaldi’s vehicle battery securement procedures followed, resulting electrical fault improperly disconnected battery used vehicle cargo deck 8. Contributing delay detection fire crew immediately reactivating vessel’s fire detection system completion loading. Contributing extent fire master’s decision delay release carbon dioxide fixed fire extinguishing system."
+204,pilot_issue,The pilot's failure maintain clearance power line maneuvering aerial application flight.
+205,pilot_issue,"The pilot's failure utilze emergency landing gear extension procedure short-circuit within normal landing gear system, resulted landing gear collapse landing."
+206,pilot_issue,"The pilot's failure maintain directional control airplane aborted landing, resulted ground loop, runway excursion, subsequent nose over."
+207,pilot_issue,"The pilot’s failure remove object airplane’s exterior, impacted propeller blades applied full power, causing fracture damage airplane."
+208,pilot_issue,"The pilot's improper fuel planning, resulted total loss engine power due fuel exhaustion impact terrain."
+209,pilot_issue,The pilot's failure maintain airplane control landing gusting wind condition resulted collision terrain.
+210,pilot_issue,The student pilot's failure maintain directional control airplane soft-field takeoff flight instructor's delayed remedial action.
+211,pilot_issue,The pilot's failure maintain airplane control takeoff soft airstrip resulted collision objects.
+212,pilot_issue,The pilot failed maintain adequate airspeed final approach impacted terrain.
+213,pilot_issue,"The student pilot's improper landing flare flight instructor's inadequate supervision, resulted hard landing."
+214,pilot_issue,The pilot's failure maintain airplane control landing turbulent conditions.
+215,pilot_issue,"The pilot’s failure maintain proper airspeed exceedance airplane’s critical angle attack, resulted aerodynamic stall.."
+216,pilot_issue,"The pilot's failure maintain directional control landing gusting wind conditions, resulted ground loop."
+217,pilot_issue,The loss engine power due fuel exhaustion pilot’s improper fuel planning flight.
+218,pilot_issue,The pilot's failure extend landing gear precautionary landing electrical failure.
+219,pilot_issue,The pilot’s failure maintain directional control landing variable wind conditions.
+220,pilot_issue,"The pilot's excessive brake application landing roll avoid animal runway, resulted ground loop."
+221,pilot_issue,"The pilot's failure maintain terrain clearance departure, resulted collision terrain.."
+222,pilot_issue,"The pilots failure switch fuel pump 'OFF' position landing, resulting loss engine power subsequent collision fence landing. Contributing accident modified landing checklist omitted fuel pump switch position."
+223,pilot_issue,The pilot’s failure maintain control airplane takeoff.
+224,pilot_issue,The pilot's failure maintain airplane directional control gusty crosswind landing.
+225,pilot_issue,The pilot's failure maintain helicopter control gusting wind resulted loss altitude subsequent collision fence.
+226,pilot_issue,"The pilot’s failure maintain proper descent rate landing gusting wind conditions, resulted hard landing."
+227,pilot_issue,The pilot's delayed decision abort takeoff airplane attaining sufficient airspeed takeoff subsequently departed end runway collided terrain. Contributing accident pilot's inadequate preflight preparation planning decision takeoff tailwind.
+228,pilot_issue,"The pilot's failure maintain directional control landing roll soft turf runway, resulted nose-over."
+229,pilot_issue,Aircraft control maintained initial climb gusting wind resulted collision power lines terrain.
+230,pilot_issue,"The pilot's failure maintain directional control takeoff gusting wind conditions, resulted runway excursion collision trees."
+231,pilot_issue,"The pilot's loss directional control landing, resulted runway excursion."
+232,pilot_issue,The pilot's loss control landing tailwheel airplane.
+233,pilot_issue,The pilot's failure maintain directional control landing.
+234,pilot_issue,"The pilot's loss directional control aborted takeoff tailwind, resulted noseover."
+235,pilot_issue,"The pilot's failure maintain proper airspeed final approach landing, subsequent failure attain sufficient altitude clear trees attempted go-around."
+236,pilot_issue,The pilot's loss control aborted landing.
+237,pilot_issue,The pilot's failure maintain directional control takeoff.
+238,pilot_issue,The pilot's failure maintain directional control landing. Contributing pilot getting shoe caught rudder pedal.
+239,pilot_issue,The pilot's failure maintain clearance power lines go-around.
+240,pilot_issue,The pilot's excessive brake input attempted maintain directional control landing roll.
+241,flight_issue,A right main landing gear break malfunction landing. Contributing accident worn right main landing gear caliper pin pressure plate hole.
+242,pilot_issue,The pilot's failure maintain adequate clearance ground obstacle landing.
+243,pilot_issue,The pilot's loss directional control takeoff crosswind.
+244,pilot_issue,"The pilot's failure maintain rotor rpm precautionary autorotation, resulted hard landing. Contributing accident airframe vibration reasons could determined examination helicopter revealed anomalies."
+245,flight_issue,The airplane builder's improper installation lower right wing resulted uncommanded left roll subsequent loss control.
+246,pilot_issue,The pilot's failure maintain control helicopter lift off. Contributing accident pilot's lack recent experience flying helicopter.
+247,pilot_issue,An inadequate flare resulted bounced landing pilot's subsequent delayed decision go-around allow sufficient clearance trees airplane affected gusting wind.
+248,pilot_issue,"The pilot's failure maintain directional control landing roll, resulted ground-loop."
+249,pilot_issue,"The pilot's failure attain proper touchdown point landing tail wind, resulted runway excursion."
+250,pilot_issue,"The pilot's failure maintain directional control takeoff gusting wind conditions, resulted collision trees impacted ground."
+251,pilot_issue,"The failure pilot adequately maintain safe distance airplane's propeller, resulted serious injury propeller struck hand."
+252,pilot_issue,"The pilot's failure retract amphibious airplane's landing gear wheels prior water landing, resulted nose over."
+253,pilot_issue,The pilot's inadequate preflight fuel quantity resulted loss engine power due fuel starvation cruise flight.
+254,pilot_issue,"The pilot's failure maintain directional control landing roll, resulted ground loop."
+255,pilot_issue,"The pilot's decision continue flight instrument meteorological conditions airplane equipped instrument flight, forced perform precautionary landing muddy field resulting airplane nosing over."
+256,pilot_issue,The pilot's failure maintain adequate landing flare resulted porpoise impact terrain.
+257,pilot_issue,"The pilot's failure maintain obstacle clearance maneuvering low altitude night, resulted helicopter striking tree."
+258,pilot_issue,The pilot's failure maintain directional control landing gusting crosswind conditions.
+259,pilot_issue,"A loss thermal lift motor glider flight, resulted off-airport landing. Contributing accident pilot's delayed attempted engine start."
+260,pilot_issue,The loss lift final approach resulted hard off-airport landing.
+261,pilot_issue,A dual total loss engine power result fuel exhaustion.
+262,pilot_issue,"The student pilot/builder’s addition winglets stabilator, resulted flutter overstress failure stabilator control horn."
+263,environment_issue,"The National Transportation Safety Board determines probable cause collision Nomadic Milde Atlantic Venus bridge team Nomadic Milde effectively monitoring vessel’s position, therefore detecting vessel dragging anchor moved original position high water conditions proximity vessels."
+264,pilot_issue,The pilot's loss directional control landing tailwheel airplane gusty wind conditions.
+265,pilot_issue,"The front seat pilot's failure maintain directional control landing roll, rear seat pilot's delayed remedial control inputs subsequently resulted ground loop. Contributing accident lack communication pilot's establish clearly defined pilot-in-command roles prior accident flight."
+266,flight_issue,The loss engine power due fuel starvation.
+267,pilot_issue,"The pilot's failure retract speedbrakes delayed go-around attempt, resulted runway excursion."
+268,pilot_issue,The pilot's diverted attention taxing resulted failure maintain clearance skip loader taxi.
+269,pilot_issue,"The pilot’s decision attempt "" water ski"" atop remote river wheel-equipped airplane, resulting loss control nose over."
+270,pilot_issue,"The pilot's failure maintain directional control takeoff roll, resulted runway excursion ground-loop."
+271,pilot_issue,"The uncertificated pilot's failure maintain aircraft control takeoff, resulted impact terrain."
+272,pilot_issue,"The pilot's failure maintain control airplane landing roll, resulted nose over."
+273,pilot_issue,"Seizure hydraulic pump pulley bearing due improper installation manufacturer, leading failure hydraulic pump belt resultant partial loss hydraulic assistance pedals."
+274,environment_issue,The collapse left main landing gear reasons could determined based available information.
+275,pilot_issue,A primary control (aileron) system anomaly progressively worsened test flight resulted loss control. The reason anomaly determined due impact damage.
+276,pilot_issue,"The pilot's failure extend landing gear runway landing, resulted gear-up landing."
+277,pilot_issue,The pilot's inadvertent extension landing gear subsequent water landing wheels extended.
+278,pilot_issue,"The pilot's inadequate preflight inspection fuel planning, resulted loss engine power due fuel exhaustion."
+279,pilot_issue,The pilot's loss control go around.
+280,pilot_issue,A gradual loss engine power takeoff due pressure regulator keeping continuous fuel pressure led precautionary airport landing collision terrain.
+281,pilot_issue,"The flight instructor's improper landing flare, resulted bounced landing, subsequent loss directional control."
+282,pilot_issue,"The loss engine power due fuel starvation result unporting fuel tank supply pickup helicopter maneuvered move conductor wire. Contributing accident helicopter’s inappropriate configuration type operation conducted, impeded pilot’s ability release long line perform successful emergency landing."
+283,pilot_issue,"The pilot's improper decision land unsuitable terrain, resulted nose-over."
+284,pilot_issue,"The pilot's failure maintain directional control landing roll gusting wind conditions, resulted roll-over."
+285,pilot_issue,"The pilot's failure maintain directional control high-speed taxi quartering tailwind, resulted runway excursion impact fence terrain."
+286,pilot_issue,"The student pilot’s failure maintain stabilized approach flight instructor's delayed remedial action initiate go-around, resulted runway overrun impact runway lights fences."
+287,pilot_issue,"The pilot's failure maintain airplane control aborted landing, resulted collision trees."
+288,pilot_issue,"The flight instructor's failure set proper rotor rpm practice autorotation, led failure maintain proper descent rate resulted hard, bounced landing."
+289,environment_issue,"The airplane's encounter sunken area takeoff turf runway, resulted airplane becoming prematurely airborne impacting tree terrain."
+290,pilot_issue,The pilot's failure maintain airplane control landing gusting quartering tailwind.
+291,pilot_issue,"The pilot's misjudgment ground spray rig’s position incorrect belief runway incursion might occur, resulted pilot attempting aborting go-around, resulted runway excursion collision fence."
+292,pilot_issue,"The noncertificated pilot’s decision take large helicopter’s rotor wash, resulted inability gain altitude takeoff."
+293,pilot_issue,"The pilot's improper decision land unsuitable terrain, resulted nose-over."
+294,pilot_issue,"The pilot's failure attain sufficient altitude go-around, resulted impact hilly terrain."
+295,pilot_issue,"The pilot's failure maintain control airplane takeoff gusting wind conditions, resulted uncontrolled turn descent terrain."
+296,pilot_issue,"The pilot's failure maintain stabilized approach improper landing flare, resulted porpoised landing."
+297,pilot_issue,The pilot's failure extend landing gear landing due distraction condition runway failure use Before Landing checklist.
+298,pilot_issue,"The pilot's failure maintain directional control airplane landing roll, resulted runway excursion nose-over."
+299,pilot_issue,"The collapse right main landing gear bounced, crosswind landing."
+300,pilot_issue,"The flight instructor's delayed remedial action power-off approach go-around gusting wind conditions, resulted hard landing, loss directional control, runway excursion onto field."
+301,pilot_issue,"The pilot's loss directional control subsequent improper brake application landing roll gusting wind conditions, resulted nose-over."
+302,pilot_issue,A loss engine power takeoff undetermined reasons.
+303,pilot_issue,"The pilot's loss directional control landing roll, resulted ground loop."
+304,pilot_issue,"The pilot's inadequate preflight inspection fuel level, resulted total loss engine power due fuel exhaustion."
+305,pilot_issue,"The motor glider's encounter atmospheric lift conditions sufficient maintain flight, necessitated forced landing resulted impact vegetation. Contributing accident pilot's delayed decision restart motor glider's engine."
+306,pilot_issue,The pilot's overapplication brakes landing subsequent loss directional control nose-over.
+307,pilot_issue,"A hard landing occurred unknown time date, resulted substantial damage identified prior subsequent flight."
+308,pilot_issue,"The pilot's selection unsuitable terrain landing, necessitated go-around, subsequent failure maintain clearance rising mountainous terrain."
+309,pilot_issue,The pilot's failure maintain clearance tree maneuvering low altitude.
+310,pilot_issue,"The pilot's inadequate preflight planning attempted takeoff obstacles direction departure, failure maintain control airplane rejected takeoff."
+311,pilot_issue,"The noncertificated pilot's diverted attention looking fire low-altitude flying, resulted collision power lines."
+312,pilot_issue,"The pilot's loss directional control landing gusting crosswind conditions, resulted runway excursion impact snowbank."
+313,pilot_issue,"The pilot’s failure apply full engine power initiation go-around gusting wind conditions exceedance airplane’s critical angle attack, resulted aerodynamic stall low altitude, flight instructor's delayed remedial action."
+314,pilot_issue,The pilot receiving instruction’s failure maintain airplane control simulated engine failure landing subsequent attempted go-around gusting crosswind conditions flight instructor's delayed remedial action.
+315,pilot_issue,"The student pilot’s improper landing flare, resulted bounced landing, subsequent loss directional control, airplane going embankment."
+316,pilot_issue,The pilot's failure see avoid parked vehicle near taxiway edge.
+317,pilot_issue,"The flight instructor's delayed remedial action decision go-around bounced landing, resulted inadvertent stall hard landing."
+318,pilot_issue,"The pilot's inadequate compensation gusting crosswind conditions, resulted loss directional control, runway excursion, impact snowbank."
+319,pilot_issue,"The pilot's failure maintain directional control landing gusting crosswind conditions, resulted runway excursion impact vegetation."
+320,pilot_issue,"The pilot's loss directional control takeoff icy ski strip gusting wind conditions, resulted left wing impacting tree."
+321,pilot_issue,"The pilot's failure extend landing gear due distraction delayed go-around, allowed airplane get low contact runway landing gear retracted."
+322,pilot_issue,"The pilot's inadequate preflight fuel planning inflight fuel management, resulted fuel exhaustion total loss engine power."
+323,pilot_issue,"The partial loss engine power due water contaminants fuel, due pilot’s inadequate preflight inspection, pilot’s decision conduct steep turn low altitude return runway rather land straight ahead, resulted aerodynamic stall."
+324,pilot_issue,"The owner/pilot's inability maintain control airplane due lack training experience, resulting collision tree."
+325,pilot_issue,"The pilot's unintentional selection wrong landing surface, covered 2 ft snow resulted nose-over."
+326,pilot_issue,"The pilot’s fuel mismanagement flight, resulting total loss engine power due fuel starvation."
+327,pilot_issue,"The in-flight failure lower left side engine cowling due mechanic’s improper installation fasteners, resulted cowling impacting four main rotor blades."
+328,pilot_issue,"The pilot's failure maintain airplane control landing gusting crosswind conditions, resulted wing striking ground."
+329,pilot_issue,excessive pitch attitude touchdown.
+330,pilot_issue,"The pilot's selection unsuitable terrain landing, resulted collision ditch left main landing gear collapsing."
+331,pilot_issue,"The pilot's incorrect right rudder application touch-and go-landing, resulted loss directional control, runway excursion, collision runway sign."
+332,pilot_issue,"The failure nosewheel steerage linkage takeoff, resulted loss directional control impact obstacle attempted aborted landing."
+333,pilot_issue,"The student pilot's failure avoid wake turbulence landing behind heavy jet airplane, resulted loss roll control subsequent hard landing."
+334,pilot_issue,The National Transportation Safety Board determines probable cause contact Cooperative Spirit tow pier Hale Boggs Memorial Bridge pilot effectively compensating strong current navigating turn approaching bridge high-water conditions
+335,pilot_issue,"The student pilot's loss directional control landing, resulted runway excursion, collision pole, subsequent ground loop."
+336,pilot_issue,"The pilot's failure maintain directional control attempted go-around avoid birds, resulted runway excursion subsequent nose-over."
+337,pilot_issue,"The pilot's improper starting procedure, allowed airplane move forward wheel chocks impact hangar subsequently hand propped engine."
+338,pilot_issue,"The pilot's failure maintain airplane control maneuvering low altitude, resulted collision terrain."
+339,pilot_issue,"The pilot's improper decision initiate takeoff roll snow-covered taxiway, resulted loss directional control, runway excursion, impact snow berm."
+340,pilot_issue,"The pilot's improper landing flare gusting wind conditions, resulted bounced landing, loss directional control, runway excursion, impact tree."
+341,pilot_issue,"The pilot's failure see avoid trees maneuvering low altitude, resulted loss airplane control."
+342,pilot_issue,"The pilot's failure reconnoiter approach area preparation off-airport landing sandbar, necessitated evasive maneuver avoid wires resulted unintentional landing river short sandbar subsequent nose-over."
+343,pilot_issue,"The pilot's improper decision turn airplane runway onto taxiway excessive speed, resulted loss directional control, runway excursion, collision taxiway sign."
+344,pilot_issue,"The trainee pilot's loss directional control landing subsequent unintentional control interference brakes and/or rudder trainer pilot's attempted remedial action, resulted runway excursion collision ditch."
+345,pilot_issue,"The pilot's loss directional control takeoff gusting crosswind conditions, resulted runway excursion impact runway approach light."
+346,pilot_issue,"The pilots' failure ensure electric fuel pumps takeoff, resulted partial loss power engines initial climb."
+347,pilot_issue,"The pilot's improper decision continue instrument approach landing following loss visual reference runway, resulted airplane touching left runway snow flipping over."
+348,flight_issue,"The fatigue failure pneumatic line reasons could determined, resulted loss engine power subsequent hard landing."
+349,pilot_issue,"The malfunction steerable tailwheel, resulted loss directional control landing roll subsequent impact precision approach path indicator lights system."
+350,pilot_issue,"The flight instructor's failure maintain directional control landing gusting crosswind conditions, resulted runway excursion nose-over."
+351,pilot_issue,"The pilot's failure maintain proper altitude airspeed approach delayed addition power go around flight instructor’s delayed remedial action, resulted nose-over landing closed snow-covered runway."
+352,pilot_issue,"The pilot's failure maintain altitude/clearance approach, resulted airplane impacting area deep snow. A factor associated accident flat light conditions."
+353,pilot_issue,"The pilot's failure maintain glider control exceedance glider's critical angle attack maneuvering gusting wind conditions, resulted aerodynamic stall."
+354,pilot_issue,"The pilot flying's improper lateral bank control go-around gusting wind conditions, resulted left-wing tip tank striking runway."
+355,pilot_issue,"The pilot's failure maintain adequate airspeed approach, resulted rapid descent rate, hard landing, nose-over."
+356,pilot_issue,"The pilot struck head propeller flight, resulted serious injury."
+357,flight_issue,"The pilot's failure use carburetor heat conditions conducive carburetor icing, resulted partial loss engine power, precautionary landing, impact snow."
+358,pilot_issue,"The pilot's lifting airplane high angle attack, resulted aerodynamic stall."
+359,pilot_issue,"The pilot's inadvertent activation left brake landing roll, resulted loss directional control, runway excursion, collision ditch."
+360,pilot_issue,"The student pilot's improper landing flare subsequent improper recovery bounced landing, resulted nosewheel collapsing."
+361,pilot_issue,"The student pilot's improper landing flare failure conduct go-around, resulted bounced landing nosewheel collapsing."
+362,pilot_issue,The rear seat pilot student pilot's failure see avoid trees initial climb following aborted landing.
+363,pilot_issue,"The pilot's failure maintain proper landing flare, resulted hard, bounced landing, subsequent loss directional control, resulted ground loop."
+364,pilot_issue,"The student pilot's failure maintain proper airspeed descent rate conducting low pass snow-covered runway encountering downdraft flight instructor's delayed action, resulted wheels contacting snow airplane nosing over."
+365,flight_issue,"The National Transportation Safety Board determines probable cause fire aboard towing vessel City Cleveland catastrophic failure crankcase breach port main engine resulting failure connecting rod assembly. Contributing severity damage vessel lack fixed fire-extinguishing system engine room, well loss electrical power single fire pump."
+366,pilot_issue,"The pilot's failure maintain airplane control landing flare gusting crosswind conditions, resulted left wing striking runway."
+367,pilot_issue,"The flight crew's failure stop airplane available runway, wet resulted airplane impacting ditch."
+368,pilot_issue,"The pilot’s failure maintain clearance power line pole low-level aerial application flight, resulted impact bracket subsequent forced landing."
+369,pilot_issue,"The pilot's failure land stop airplane within available runway, resulted runway overrun. Contributing outcome pilot's inadvertent feathering propellers approach landing."
+370,pilot_issue,"The pilot's improper landing flare touchdown, resulted bounced landing loss directional control airplane's subsequent impact snowbank ground loop attempted go-around."
+371,pilot_issue,"The pilot's failure lock tailwheel landing, resulted loss directional control landing roll, runway excursion onto soft ground, subsequent ground loop."
+372,pilot_issue,"The flight instructor’s inadequate communication pilot review intention simulate single-engine failure subsequent exceedance airplane’s critical angle attack pilot respond expected, resulted aerodynamic stall low altitude."
+373,pilot_issue,The pilot's failure maintain bank control landing gusting wind conditions.
+374,pilot_issue,"The pilot's failure maintain airplane control approach, resulted airplane ballooning veering left upon landing right wing impacting runway."
+375,pilot_issue,"The pilot's failure maintain adequate clearance snow covered terrain en route descent flat light conditions, resulted controlled flight terrain."
+376,pilot_issue,The pilot's failure lower landing gear landing. Contributing accident examiner’s failure check landing gear extended.
+377,pilot_issue,The pilot's loss directional control landing roll slush-covered runway.
+378,pilot_issue,"The pilot's failure maintain directional control landing flat light conditions, resulted ground loop."
+379,pilot_issue,"The pilot's failure arrest descent rate maneuvering low altitude, resulted impact terrain."
+380,pilot_issue,The flight instructor’s student pilot’s failure ensure landing gear extended landing.
+381,flight_issue,"The flight instructor's inadvertent throttle reduction idle, resulted total loss engine power subsequent impact terrain following power-off autorotation."
+382,pilot_issue,"The pilot's failure remove right skid trailer tie-down attempting take off, resulted dynamic roll-over."
+383,pilot_issue,"The student pilot's improper pedal cyclic input maneuvering, resulted loss helicopter control."
+384,pilot_issue,The pilot's delayed decision abort takeoff airplane passed point anticipated liftoff would occur.
+385,pilot_issue,The student pilot's failure maintain directional control landing snow/slush-covered portion runway flight instructor's improper decision allow student make first solo flight snow/slush-covered runway.
+386,pilot_issue,The pilot's failure maintain airplane control go-around. Contributing accident pilot’s decision take perceiving rudder issue taxi operations.
+387,pilot_issue,"The pilot’s inadequate preflight fuel planning, resulted loss engine power due fuel exhaustion."
+388,pilot_issue,"The pilot's failure maintain adequate airspeed final approach, resulted airplane exceeding critical angle attack subsequent aerodynamic stall low altitude recover."
+389,pilot_issue,"The inadvertent engine start unoccupied airplane, resulted moving forward impacting hangar electrical box."
+390,pilot_issue,"The pilot’s failure complete landing checklist, resulted delayed extension landing gear, subsequent exceedance airplane's critical angle attack, resulted aerodynamic stall."
+391,pilot_issue,The pilot's failure maintain clearance fence low-altitude maneuvering.
+392,pilot_issue,"The pilot's improper landing flare gusting crosswind conditions, resulted airplane porpoising subsequent loss directional control, runway excursion, nose-over."
+393,pilot_issue,"The pilot’s loss directional control snow-covered runway, resulted runway excursion."
+394,pilot_issue,"The pilot's failure properly secure crew hatch door takeoff, resulted door’s forward hinge assembly tearing fuselage mount point."
+395,pilot_issue,"The pilot's improper approach delayed decision apply corrective action, resulted runway overrun, impact berm, subsequent nose-over."
+396,pilot_issue,"The inadequate inspection fuel selector valve, degraded, allowed fuel leak, resulted fuel starvation loss engine power."
+397,pilot_issue,"The pilot's improper landing flare, resulted bounced landing, subsequent failure maintain directional control, resulted left main landing gear tire bursting tailwheel assembly failing."
+398,pilot_issue,The pilot's failure maintain clearance approach lights instrument approach.
+399,environment_issue,An encounter severe convective turbulence associated strong sheared environment associated jet stream.
+400,pilot_issue,The pilot’s loss directional control subsequent nose landing gear collapse undetermined reasons.
+401,pilot_issue,The pilot's failure maintain clearance snow-covered terrain maneuvering low altitude.
+402,pilot_issue,"failure small UAS remote pilot give way helicopter, resulting inflight collision. Contributing incident sUAS remote pilot’s failure assess mitigate risks operations close proximity aircraft. Also contributing incident lack inclusion sUAS operations part aviation activity risk mitigation."
+403,pilot_issue,"The pilot's delayed response initiate go-around night visual approach water airplane entered instrument meteorological conditions, resulted loss forward visibility subsequent impact water."
+404,pilot_issue,"The student pilot's failure maintain directional control flight instructor's inadequate remediation short-field takeoff, resulted impact parked airplane."
+405,pilot_issue,"The pilot's improper continuation landing landed far runway high speed, resulted loss directional control runway excursion."
+406,environment_issue,An unavoidable collision garbage dumpster blown path airplane takeoff roll.
+407,pilot_issue,"The fracture right main landing gear torque link bolt landing, resulted landing gear assembly rotating freely, subsequent loss directional control, landing gear collapsing."
+408,pilot_issue,"The pilot's improper landing flare crosswind conditions, resulted bounced landing, subsequent failure maintain directional control, resulted ground-loop."
+409,pilot_issue,"The student pilot's failure maintain directional control takeoff, resulted runway excursion subsequent nose-over."
+410,pilot_issue,"The pilot's improper landing flare, resulted bounced landing, subsequent failure maintain directional control, resulted runway excursion impact sign."
+411,pilot_issue,"A total loss engine power engines due fuel exhaustion, resulted landing short runway."
+412,pilot_issue,"The pilot's failure apply full carburetor heat operating conditions conducive carburetor icing, resulted total loss engine power, forced landing, impact tree."
+413,pilot_issue,The pilot's decision land turf runway insufficient landing performance subsequent loss control landing roll.
+414,pilot_issue,"The pilot's failure maintain directional control landing crosswind conditions, resulted ground-loop."
+415,pilot_issue,"The pilot's failure maintain proper descent rate, resulted hard landing, subsequent loss airplane control attempted go-around."
+416,pilot_issue,"The pilot’s decision continue flight visual flight rules instrument meteorological conditions, resulted pilot’s spatial disorientation loss control. Contributing accident pilot’s likely self-induced pressure pilot’s plan continuation bias, adversely affected decision-making, Island Express Helicopters Inc.’s inadequate review oversight safety management processes."
+417,environment_issue,The National Transportation Safety Board determines probable cause collision Cooperative Spirit RC Creppel tows two pilots’ insufficient radio communication meeting bend broadcasting accurate AIS information regarding tow size.
+418,pilot_issue,"The pilot’s exceedance airplane’s structural limitations conducting previous aerobatic maneuvers, resulted in-flight breakup airplane."
+419,pilot_issue,"The pilot's improper approach landing flare, resulted stall subsequent hard, bounced landing."
+420,pilot_issue,"The pilot's exceedance airplane's critical angle attack, resulted aerodynamic stall subsequent loss control low altitude."
+421,pilot_issue,The tail wheel mechanism detachment reasons could determined due lack available evidence resulted loss directional control landing.
+422,pilot_issue,"The pilot receiving instruction’s loss directional control landing crosswind, resulted runway excursion left main landing gear collapsing."
+423,pilot_issue,"The pilot's failure maintain directional control landing, resulted runway excursion nose-over right wheel encountered mud."
+424,pilot_issue,"The pilot's failure maintain clearance fencing around landing pad landing, resulted tail rotor contacting fence."
+425,pilot_issue,"The pilot's inadvertent application brakes landing roll, resulted nose-over."
+426,pilot_issue,"The student pilot's failure maintain helicopter control maneuvering land, resulted impact airplane hangar."
+427,pilot_issue,"The pilot's failure maintain directional control landing roll runway icy patches, resulted impact snowbank subsequent nose-over."
+428,pilot_issue,"The pilot's improper landing flare gusting crosswind conditions, resulted bounced landing, subsequent failure maintain directional control, resulted runway excursion nose-over."
+429,pilot_issue,"The pilot's failure maintain directional control aborted takeoff, resulted collision barricade."
+430,pilot_issue,"The failure tailwheel attachment tube takeoff roll, resulted loss directional control, runway excursion, left main landing gear collapsing."
+431,pilot_issue,The pilot’s failure maintain control airplane following loss engine power. The loss engine power result fuel starvation due degraded fuel tank fuel contamination.
+432,pilot_issue,"The pilot receiving instruction’s misunderstanding flight instructor’s instruction pilot's instructor’s insufficient use rudder adding power operating engine, resulted airplane rolling left wing striking ground. Contributing accident flight instructor's delayed remedial action."
+433,pilot_issue,"The pilot's failure properly configure airplane takeoff, resulted premature liftoff, loss control, collision terrain."
+434,pilot_issue,"The pilot's failure properly configure amphibious airplane water landing, resulted flipping over."
+435,environment_issue,"The National Transportation Safety Board determines probable cause collision inbound tanker Bow Fortune outbound commercial fishing vessel Pappy’s Pride captain Pappy’s Pride’s outbound course toward ship channel, created close quarters situation restricted visibility. Contributing lack communication captain Pappy’s Pride."
+436,pilot_issue,"The student pilot's failure arrest airplane’s descent rate, resulted hard landing."
+437,pilot_issue,The pilot's failure maintain clearance parked airplane taxi operations night.
+438,environment_issue,encounter convectively induced turbulence overflying area known convective activity.
+439,pilot_issue,failure deicing truck driver maintain appropriate clearance airplane.
+440,pilot_issue,"The pilot's improper decision attempt off-airport departure rough terrain without inspecting takeoff area, resulted collision shallow rut takeoff nose landing gear collapsing."
+441,pilot_issue,"The student pilot's failure allow adequate separation passing parked airplane, resulted ground collision."
+442,pilot_issue,"The pilot receiving instruction's failure maintain airplane control landing crosswind, resulted bounced landing, flight instructor's delayed remedial action, resulted loss control go-around."
+443,pilot_issue,"The pilot’s mismanagement fuel selector, resulted fuel starvation total loss engine power."
+444,pilot_issue,The pilot’s impairment/incapacitation carbon monoxide poisoning due degraded muffler. Contributing accident pilot’s failure properly maintain airplane.
+445,pilot_issue,"The student pilot's loss airplane control short field takeoff gusting crosswind conditions, designated pilot examiner's delayed remedial action."
+446,pilot_issue,"The pilot's failure maintain control airplane intentional aerodynamic stall, resulted spin subsequent collision terrain."
+447,flight_issue,A total loss engine power reasons could determined based available information.
+448,pilot_issue,"The airplane hydroplaning landing wet runway, degraded braking capability resulted runway overrun onto grass mud nose landing gear collapsing. Contributing accident pilot's improper decision land airplane near runway midpoint due fog approach end runway."
+449,pilot_issue,"The pilot's failure maintain adequate clearance terrain hover-taxi, resulted helicopter's skid contacting grass subsequent dynamic roll-over."
+450,pilot_issue,"The pilot's poor preflight planning, failed verify proper procedure activate runway lights; inability locate airport without lighting; airplane’s subsequent low-fuel state circled looking airport, necessitated precautionary off-airport landing, nose landing gear separated."
+451,pilot_issue,"The pilot's failure maintain proper descent rate landing, resulted hard landing short runway."
+452,environment_issue,"The airplane’s encounter turbulence descent, resulted serious injury flight attendant."
+453,pilot_issue,"The pilot’s inadequate fuel management, resulted total loss engine power due fuel starvation, pilot’s inadequate preflight inspection preflight fuel planning."
+454,pilot_issue,The National Transportation Safety Board determines probable cause striking Rock Island Railroad Bridge barges INO85100 INO85226 pushed William C steering port initiated pilot inability pilot return vessel channel. Contributing casualty short amount time distance pilot correct steering error stop vessel prior striking Rock Island Railroad Bridge.
